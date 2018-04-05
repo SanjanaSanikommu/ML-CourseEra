@@ -1,2 +1,2 @@
-# ML-CourseEra
-All Machine Learning Assignments solved (Course Era)
+# ML-Problems and Solutions
+All Machine Learning  solved in Matlab
